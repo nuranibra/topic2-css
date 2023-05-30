@@ -1,0 +1,51 @@
+.text1{
+    color:white;
+    background-color: black;
+    text-decoration: underline;
+    font-size:25px;
+    text-align: center;
+}
+
+.text2{
+    color:black;
+    font-size:25px;
+    text-align:center;
+
+}
+
+.text3{
+    color:black;
+    text-align:center;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.lorem{
+    color:black;
+    text-align:left;
+    font-weight: bold;
+    text-align:center;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    display: flex;
+}
+
+.menulink{
+    color:black;
+    text-align:center;
+    font-weight:bold;
+    font-size:50px;
+}
+
+.kecitler ul{
+    color:black;
+    border:5px solid black;
+    font-size:50px;
+    text-decoration: none;
+    list-style: none;
+    text-align:center;
+    border-radius:10px;
+}
